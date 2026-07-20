@@ -18,6 +18,14 @@
 
 <br>
 
+<h3>📜 Certifications</h3>
+
+| 자격증명 | 발급기관 | 발급일 | 배지 |
+|----------|-----------|--------|-------|
+| **ADSP (데이터분석 준전문가)** | 한국데이터산업진흥원 | 2024.11 |  |
+| **SQLD (SQL 개발자)** | 한국데이터산업진흥원 | 2025.06 |  |
+| **정보처리기사** | 한국산업인력공 | 2025.06 | |
+
 <h3>🛠️ Tech Stack</h3>
 
 **Language**
@@ -50,15 +58,6 @@
 <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white">
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white">
 <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=Discord&logoColor=white">
-</div>
-
-<br>
-
-<h3>🏅 Stats</h3>
-
-<div align="center">
-<img src="https://github-readme-stats-six-steel-36.vercel.app/api?username=MunChaerin&show_icons=true&bg_color=ffffff00&title_color=34558B&text_color=1B1F24&icon_color=34558B&border_color=DADFE5" />
-<img src="https://github-readme-stats-six-steel-36.vercel.app/api/top-langs/?username=MunChaerin&layout=compact&bg_color=ffffff00&title_color=34558B&text_color=1B1F24&border_color=DADFE5" />
 </div>
 
 <br>
