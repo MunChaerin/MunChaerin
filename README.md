@@ -1,32 +1,40 @@
 <div align="center">
 
-<h2>Hello, I'm Chaerin Mun 👋</h2>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1a,100:4a4a4a&height=220&section=header&text=Hello,%20I'm%20Chaerin%20Mun%20👋&fontSize=38&fontColor=ffffff&fontAlignY=38&desc=AI%20Engineer%20·%20Backend%20Developer&descAlignY=56&descSize=18&descColor=e0e0e0&animation=fadeIn" width="100%"/>
 
-<i>"성실하게 배우고, 트렌드는 발 빠르게"</i><br>
-<sub>기본기는 꾸준히 쌓고, 새로운 도구와 트렌드는 가장 먼저 써보고 적용합니다.</sub>
+<a href="https://github.com/MunChaerin">
+  <img src="https://readme-typing-svg.demolab.com/?size=20&duration=3000&pause=1000&color=1A1A1A&center=true&vCenter=true&width=600&lines=성실하게+배우고%2C+트렌드는+발+빠르게;AI+모델링부터+백엔드+아키텍처까지;새로운+도구는+가장+먼저+써보는+편입니다" alt="Typing SVG" />
+</a>
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=MunChaerin&label=Profile%20Views&color=1a1a1a&style=flat" alt="profile views"/>
+<img src="https://img.shields.io/github/followers/MunChaerin?label=Follow&style=flat&color=1a1a1a" alt="followers"/>
 
 </div>
 
 <br>
 
-<h3>📌 About</h3>
+### 📌 About
 
 - 🎓 Sangmyung Univ. · Human-centered AI / Dept. of Computer Science (Minor)
 - 🧩 관심 분야 : 새로운 프레임워크·도구, 바이브 코딩, 빠른 프로토타이핑
 - 🌱 새로운 기술이 나오면 일단 가장 먼저 써보는 편입니다
 - 📫 연락은 아래 이메일로 편하게 주세요
+
 <br>
 
-<h3>📜 Certifications</h3>
+### 📜 Certifications
 
-| 자격증명 | 발급기관 | 발급일 | 배지 |
-|----------|-----------|--------|-------|
-| **ADSP (데이터분석 준전문가)** | 한국데이터산업진흥원 | 2024.11 |  |
-| **SQLD (SQL 개발자)** | 한국데이터산업진흥원 | 2025.06 |  |
-| **정보처리기사** | 한국산업인력공단 | 2025.06 | |
+| 자격증명 | 발급기관 | 발급일 |
+|----------|-----------|--------|
+| **ADSP (데이터분석 준전문가)** | 한국데이터산업진흥원 | 2024.11 |
+| **SQLD (SQL 개발자)** | 한국데이터산업진흥원 | 2025.06 |
+| **정보처리기사** | 한국산업인력공단 | 2025.06 |
+
 <br>
 
-<h3>🛠️ Tech Stack</h3>
+### 🛠️ Tech Stack
 
 **Language**
 <div>
@@ -62,9 +70,22 @@
 
 <br>
 
-<h3>📮 Contact</h3>
+### 📊 GitHub Stats
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=MunChaerin&show_icons=true&theme=default&hide_border=true&title_color=1a1a1a&icon_color=1a1a1a&text_color=333333&bg_color=ffffff" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MunChaerin&layout=compact&hide_border=true&title_color=1a1a1a&text_color=333333&bg_color=ffffff" width="48%"/>
+</div>
+
+<br>
+
+### 📮 Contact
 
 <div>
 <a href="mailto:munchaerin.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"></a>
 <a href="https://velog.io/@020429mun"><img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white"></a>
 </div>
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1a,100:4a4a4a&height=100&section=footer" width="100%"/>
