@@ -57,8 +57,8 @@
 <h3>🏅 Stats</h3>
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=MunChaerin&show_icons=true&bg_color=ffffff00&title_color=34558B&text_color=1B1F24&icon_color=34558B&border_color=DADFE5" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MunChaerin&layout=compact&bg_color=ffffff00&title_color=34558B&text_color=1B1F24&border_color=DADFE5" />
+<img src="https://github-readme-stats-six-steel-36.vercel.app/api?username=MunChaerin&show_icons=true&bg_color=ffffff00&title_color=34558B&text_color=1B1F24&icon_color=34558B&border_color=DADFE5" />
+<img src="https://github-readme-stats-six-steel-36.vercel.app/api/top-langs/?username=MunChaerin&layout=compact&bg_color=ffffff00&title_color=34558B&text_color=1B1F24&border_color=DADFE5" />
 </div>
 
 <br>
