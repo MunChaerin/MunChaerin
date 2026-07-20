@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1a,100:4a4a4a&height=220&section=header&text=Hello,%20I'm%20Chaerin%20Mun%20👋&fontSize=38&fontColor=ffffff&fontAlignY=38&desc=AI%20Engineer%20·%20Backend%20Developer&descAlignY=56&descSize=18&descColor=e0e0e0&animation=fadeIn" width="100%"/>
 
 <a href="https://github.com/MunChaerin">
-  <img src="https://readme-typing-svg.demolab.com/?size=20&duration=3000&pause=1000&color=1A1A1A&center=true&vCenter=true&width=600&lines=성실하게+배우고%2C+트렌드는+발+빠르게;AI+모델링부터+백엔드+아키텍처까지;새로운+도구는+가장+먼저+써보는+편입니다" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Noto+Sans+KR&size=20&duration=3000&pause=1000&color=1A1A1A&center=true&vCenter=true&width=650&lines=성실하게+배우고%2C+트렌드는+발+빠르게;AI+모델링부터+백엔드+아키텍처까지;새로운+도구는+가장+먼저+써보는+편입니다" alt="Typing SVG" />
 </a>
 
 <br>
@@ -66,15 +66,6 @@
 <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white">
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white">
 <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=Discord&logoColor=white">
-</div>
-
-<br>
-
-### 📊 GitHub Stats
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=MunChaerin&show_icons=true&theme=default&hide_border=true&title_color=1a1a1a&icon_color=1a1a1a&text_color=333333&bg_color=ffffff" width="48%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MunChaerin&layout=compact&hide_border=true&title_color=1a1a1a&text_color=333333&bg_color=ffffff" width="48%"/>
 </div>
 
 <br>
