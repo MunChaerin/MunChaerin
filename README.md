@@ -53,15 +53,6 @@
 
 <br>
 
-<h3>🏅 Stats</h3>
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=MunChaerin&show_icons=true&bg_color=ffffff00&title_color=34558B&text_color=1B1F24&icon_color=34558B&border_color=DADFE5" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MunChaerin&layout=compact&bg_color=ffffff00&title_color=34558B&text_color=1B1F24&border_color=DADFE5" />
-</div>
-
-<h3>📮 Contact</h3>
-
 <div>
 <a href="mailto:munchaerin.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"></a>
 <a href="https://velog.io/@020429mun"><img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white"></a>
