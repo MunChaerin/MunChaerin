@@ -35,6 +35,7 @@
 **Database**
 <div>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=PostgreSQL&logoColor=white">
 <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white">
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white">
 </div>
@@ -55,11 +56,9 @@
 <h3>🏅 Stats</h3>
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=MunChaerin&bg_color=180,ffffff,00000000&title_color=000000&text_color=000000" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MunChaerin&layout=compact&bg_color=180,ffffff,00000000&title_color=000000&text_color=000000" />
+<img src="https://github-readme-stats.vercel.app/api?username=MunChaerin&show_icons=true&bg_color=ffffff00&title_color=34558B&text_color=1B1F24&icon_color=34558B&border_color=DADFE5" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MunChaerin&layout=compact&bg_color=ffffff00&title_color=34558B&text_color=1B1F24&border_color=DADFE5" />
 </div>
-
-<br>
 
 <h3>📮 Contact</h3>
 
