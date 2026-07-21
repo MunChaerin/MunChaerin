@@ -9,17 +9,13 @@
 <br><br>
 
 <a href="https://munchaerin.github.io/">
-  <img src="https://img.shields.io/badge/📄_PORTFOLIO-바로가기-1a1a1a?style=for-the-badge" alt="portfolio button"/>
+  <img src="https://img.shields.io/badge/🔗_PORTFOLIO_바로가기-000000?style=for-the-badge&labelColor=000000" alt="portfolio button" height="42"/>
 </a>
+<br/>
+<sub><code>munchaerin.github.io</code></sub>
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=MunChaerin&label=Profile%20Views&color=1a1a1a&style=flat" alt="profile views"/>
-<img src="https://img.shields.io/github/followers/MunChaerin?label=Follow&style=flat&color=1a1a1a" alt="followers"/>
-
-</div>
-
-<br>
 
 ### 📌 About
 
