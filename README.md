@@ -8,13 +8,6 @@
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=MunChaerin&label=Profile%20Views&color=1a1a1a&style=flat" alt="profile views"/>
-<img src="https://img.shields.io/github/followers/MunChaerin?label=Follow&style=flat&color=1a1a1a" alt="followers"/>
-
-</div>
-
-<br>
-
 ### 📌 About
 
 - 🎓 Sangmyung Univ. · Human-centered AI / Dept. of Computer Science (Minor)
