@@ -16,12 +16,12 @@
 
 <br>
 
-
 ### 📌 About
 
-- 🎓 Sangmyung Univ. · Human-centered AI / Dept. of Computer Science (Minor)
-- 🧩 관심 분야 : 새로운 프레임워크·도구, 바이브 코딩, 빠른 프로토타이핑
-- 🌱 새로운 기술이 나오면 일단 가장 먼저 써보는 편입니다
+- 🎓 Sangmyung Univ. · Human-centered AI / Dept. of Computer Science Minor
+- 💻 React/React Native, Spring Boot, FastAPI 기반 서비스 개발에 관심이 있습니다
+- 🤖 AI 모델링과 RAG 기반 API를 실제 서비스 화면과 연결하는 경험을 쌓고 있습니다
+- 🚀 새로운 프레임워크와 도구를 빠르게 적용하며 프로토타입을 서비스 형태로 발전시키는 것을 좋아합니다
 - 📫 연락은 아래 이메일로 편하게 주세요
 
 <br>
@@ -38,36 +38,45 @@
 
 ### 🛠️ Tech Stack
 
-**Language**
+**Frontend**
 <div>
-<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white">
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=000000">
+<img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=React&logoColor=000000">
+<img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=Expo&logoColor=white">
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white">
 </div>
 
-**Framework**
+**Backend**
 <div>
-<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
-<img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jQuery&logoColor=white">
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white">
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=FastAPI&logoColor=white">
+<img src="https://img.shields.io/badge/JPA-59666C?style=for-the-badge">
+<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSONWebTokens&logoColor=white">
+</div>
+
+**AI / Data**
+<div>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white">
+<img src="https://img.shields.io/badge/RAG-111111?style=for-the-badge">
+<img src="https://img.shields.io/badge/ChromaDB-5B5BD6?style=for-the-badge">
+<img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=OpenAI&logoColor=white">
 <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white">
 </div>
 
 **Database**
 <div>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=PostgreSQL&logoColor=white">
-<img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white">
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white">
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
+<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=Redis&logoColor=white">
 </div>
 
-**Tools**
+**Infra / Tools**
 <div>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white">
-<img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white">
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=AmazonAWS&logoColor=white">
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=Vercel&logoColor=white">
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white">
-<img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=Anaconda&logoColor=white">
-<img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white">
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white">
-<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=Discord&logoColor=white">
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white">
 </div>
 
 <br>
@@ -75,10 +84,16 @@
 ### 📮 Contact
 
 <div>
-<a href="mailto:munchaerin.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"></a>
-<a href="https://velog.io/@020429mun"><img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white"></a>
+<a href="mailto:munchaerin.dev@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white">
+</a>
+<a href="https://velog.io/@020429mun">
+  <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white">
+</a>
 </div>
 
 <br>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1a,100:4a4a4a&height=100&section=footer" width="100%"/>
+
+</div>
